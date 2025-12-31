@@ -1,6 +1,6 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture><br/>
-Cybersecurity professional with experience in penetration testing, network security, and backend development. <br>I have experience configuring firewalls (Cisco, Fortinet, pfSense), implementing IDS/IPS solutions, and using tools such as Nmap, Metasploit, Burp Suite, and Wireshark. <br>I am proficient in Python, Java, C#, Docker, and SQL/NoSQL databases, with experience in Windows Server and Ubuntu Server environments.
+Cybersecurity professional with experience in penetration testing, network security. <br>I have experience configuring firewalls (Cisco, Fortinet, pfSense), implementing IDS/IPS solutions, and using tools such as Nmap, Metasploit, Burp Suite, and Wireshark. <br>I am proficient in Python, Java, C#, Docker, and SQL/NoSQL databases, with experience in Windows Server and Ubuntu Server environments.
 
 
 ## 🌐 Socials:
