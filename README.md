@@ -1,7 +1,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture><br/>
 Cybersecurity professional with experience in penetration testing, network security end SysAdmin.I have experience configuring routers,switchs,firewalls (Cisco, Fortinet,Microtik,pfSense), implementing IDS/IPS solutions, and using tools such as Nmap, Metasploit, Burp Suite,Wireshark, among other.I am proficient in Python, C++, Docker, and SQL/NoSQL databases, with experience in Windows Server and Ubuntu Server environments.
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/federly-castillo-b17525375/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B69NBhm6HS3uQvrsVeQGOkw%3D%3D) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/federly/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:federlycastillo20@gmail.com) 
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
