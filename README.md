@@ -10,14 +10,14 @@ Cybersecurity professional with experience in penetration testing, network secur
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)	![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-### 🔐 Cybersecurity Tools
+## Cybersecurity Tools
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-
+##
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
