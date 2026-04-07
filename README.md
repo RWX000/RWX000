@@ -18,5 +18,3 @@ Cybersecurity professional with experience in penetration testing, network secur
 ##
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-## 📊 GitHub Stats
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RWX000&theme=tokyonight)
