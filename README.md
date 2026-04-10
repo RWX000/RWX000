@@ -1,6 +1,6 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-Cybersecurity professional with experience in penetration testing, network security end SysAdmin.I have experience configuring routers,switchs,firewalls (Cisco, Fortinet,Microtik,pfSense), implementing IDS/IPS solutions, and using tools such as Nmap, Metasploit, Burp Suite,Wireshark, among other.I am proficient in Python, Docker, and SQL/NoSQL databases, with experience in Windows Server and Ubuntu Server environments.
+Cybersecurity professional with experience in penetration testing, network security end SysAdmin.I have experience configuring routers,switchs,firewalls (Cisco, Fortinet,Microtik,pfSense), implementing IDS/IPS solutions, and using tools such as Nmap, Metasploit, Burp Suite,Wireshark, among other.I am proficient in Python, Docker, and SQL  databases, with experience in Windows Server and Ubuntu Server environments.
 
 ## Cybersecurity Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
