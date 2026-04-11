@@ -35,7 +35,7 @@ Cybersecurity professional with experience in penetration testing, network secur
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## ProyEcts
+## Proyects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Configuration & Troubleshooting in Cisco packettracer| [CCNA Practical Labs Portfolio](https://github.com/RWX000/LABS-CCNA) |
