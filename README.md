@@ -1,6 +1,6 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-Profesional de ciberseguridad con experiencia en pruebas de penetración, seguridad de redes y administración de sistemas. Tengo experiencia en la configuración de sistemas empresariales, routers, switches y firewalls (Cisco, Fortinet, MikroTik, pfSense), implementando  soluciones IDS/IPS y el uso de herramientas como Nmap, Metasploit, Burp Suite, Wireshark, Splunk, Wazuh, Snort y SIEM, entre otras. Domino de Python,Bash,Powershell, Docker y Bases de Datos SQL/NoSQL, y tengo experiencia en entornos Windows Server,Ubuntu Server,Apache server, Nginx.
+Profesional de ciberseguridad con experiencia en pruebas de penetración, seguridad de redes y administración de sistemas. Tengo experiencia en la configuración de sistemas empresariales, routers, switches y firewalls (Cisco, Fortinet, MikroTik, pfSense), implementando  soluciones IDS/IPS y el uso de herramientas como Nmap, Metasploit, Burp Suite, Wireshark, Splunk, Wazuh, Snort y SIEM, entre otras. Domino de Python,Bash, Docker y Bases de Datos SQL/NoSQL, y tengo experiencia en entornos Windows Server,Ubuntu Server,Apache server, Nginx.
 
 ## Cybersecurity Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
